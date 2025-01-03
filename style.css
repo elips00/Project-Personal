@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: antiquewhite;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header2{
+  background-color: white;
+}
+
+.header1{
+  background-color: white;
+  border: 15px solid black;
+  border-radius: 10px;
+}
+
+.gambar1 img{
+    background-color: white;
+    border-radius: 10px;
+    border: 15px solid black;
+}
